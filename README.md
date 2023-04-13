@@ -24,7 +24,3 @@ Once image built
 docker run -p 80:80 app
 ```
 Navigate to http://localhost
-
-
-
-d
